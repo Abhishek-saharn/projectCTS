@@ -1,4 +1,5 @@
 # CodiTec
+
 To run this project you need to 
 1) Download Nodejs https://nodejs.org/en/download/  
 2) Open Nodejs CLI in project folder.
@@ -7,3 +8,5 @@ To run this project you need to
 5) Start server.js file. using: "nodemon server" 
 6) Open Google Chrome (Recommended), goto URL: localhost:3000 
 for more details contact: abhishek.saharn@gmail.com 
+
+or just go to https://coditec.herokuapp.com/
